@@ -1,69 +1,53 @@
-# 👋 안녕하세요! 데이터 분석가 `Yooni`입니다.
 
-### 📊 Python 기반 데이터 분석가
+# 👋 Hi, I'm Yooni!
 
-Python과 통계학을 공부하며 데이터에서 의미 있는 인사이트를 찾는 과정에 관심이 있습니다.
+### 📊 Junior Data Analyst | Python & AI
 
-특히 **주식 분석과 시계열 분석**을 중심으로 데이터를 탐색하고 분석하는 역량을 키우고 있습니다.
+> **데이터에서 패턴을 발견하고, 분석 결과를 의사결정으로 연결합니다.**
 
-- 🌱 Python 및 통계 기반 데이터 분석 학습 중
-- 📈 주식 데이터 분석과 금융 데이터에 관심
-- ⏳ 시계열 데이터의 추세 및 예측 분석에 관심
-- 🔍 데이터 기반의 합리적인 의사결정을 목표로 성장 중
+경영학과 데이터사이언스를 기반으로 Python 데이터 분석을 학습하고 있습니다.  
+데이터 전처리부터 통계 분석, 시각화까지 분석의 전 과정을 익히며 실무 역량을 쌓고 있습니다.
+
+- 🎓 **Education** | AI·데이터 분석 부트캠프 (6개월 과정, 수료 예정)
+- 🎯 **Focus** | 데이터 분석 · 머신러닝 · 금융 데이터
+- 🌱 **Currently Learning** | Python 기반 데이터 분석 및 모델링
 
 ---
 
-## 🛠️ 기술 스택 (Tech Stack)
+### 🛠 Tech Stack
 
-**언어 및 개발 환경**
+**Language & Environment**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-**데이터 분석 및 시각화**
+**Data Analysis & Visualization**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
 
-**통계 및 시계열 분석**
+**Statistics**
 
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square&logo=python&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=flat-square&logo=googleanalytics&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-4051B5?style=flat-square)
 
 ---
 
-## 🎯 관심 분야 (Interests)
+### 📂 Projects
 
-- 📈 **주식 데이터 분석** : 주가 추이, 수익률, 변동성 분석
-- ⏳ **시계열 분석** : 추세, 계절성, 시계열 예측
-- 📊 **통계 분석** : 기술통계, 가설검정, 상관관계 분석
-- 🔍 **데이터 시각화** : 데이터의 패턴과 인사이트 탐색
+| Area | Description |
+|:---|:---|
+| 📈 Financial Data | 주가·수익률 및 시계열 분석 |
+| 📊 Data Analytics | 데이터 전처리·탐색·시각화 |
+| 🤖 Machine Learning | 학습 및 프로젝트 준비 중 |
 
----
-
-## 📂 프로젝트 (Projects)
-
-| 프로젝트 | 주요 내용 | 기술 |
-|:---|:---|:---|
-| `주식 데이터 분석` | 주가 및 수익률 분석 | Python, Pandas |
-| `시계열 데이터 분석` | 추세 및 계절성 탐색 | Python, Statsmodels |
-| `기초 통계 분석` | 기술통계 및 데이터 탐색 | Python, SciPy |
-
-*프로젝트는 학습과 분석 경험이 쌓이는 대로 업데이트할 예정입니다.*
+*프로젝트별 분석 과정과 결과를 순차적으로 공개할 예정입니다.*
 
 ---
 
-## 📫 연락처 (Contact)
+### 🔗 Connect
 
-- GitHub: [@`GitHub아이디`](https://github.com/GitHub아이디)
-- Email: `이메일 주소`
-
----
-
-⭐ 방문해 주셔서 감사합니다!  
-꾸준히 배우고 분석하며 성장하겠습니다.
+[![GitHub](https://img.shields.io/badge/GitHub-Yooni14-181717?style=flat-square&logo=github)](https://github.com/Yooni14)
